@@ -1,0 +1,143 @@
+newmtl m_001
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_001.dds
+
+newmtl m_004
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_004.dds
+
+newmtl m_007
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_007.dds
+
+newmtl m_009
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_009.dds
+
+newmtl m_011
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_011.dds
+
+newmtl m_013
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_013.dds
+
+newmtl m_015
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_015.dds
+
+newmtl m_017
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_017.dds
+
+newmtl m_019
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_019.dds
+
+newmtl m_021
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_021.dds
+
+newmtl m_024
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_024.dds
+
+newmtl m_026
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_026.dds
+
+newmtl m_028
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_028.dds
+
+newmtl m_030
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_030.dds
+
+newmtl m_032
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_032.dds
+
+newmtl m_035
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_035.dds
+
+newmtl m_037
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_037.dds
+
+newmtl m_040
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_040.dds
+
+newmtl m_042
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_042.dds
+
+newmtl m_044
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_044.dds
+
+newmtl m_047
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_047.dds
+
+newmtl m_049
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_049.dds
+
+newmtl m_052
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+map_kd textures/R_ALL_02a_360_052.dds
+
+newmtl m_default
+Ka 0.2 0.2 0.2
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+
